@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SlyceDF
-- 👀 I’m interested in music producing and frontend development i guess
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing for now :S
-- 📫 How to reach me? Slyce#0537 on Discord
+- 👋 it be @SlyceDF
+- 👀 i make music and desmos
+- 🌱 desmos is amazing
+- 💞️ why
+- 📫 slycedf on Discord, also [this](https://linktr.ee/slycedf)
 
 <!---
 SlyceDF/SlyceDF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
