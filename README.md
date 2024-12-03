@@ -1,8 +1,4 @@
-- 👋 it be @SlyceDF
-- 👀 i make music and desmos
-- 🌱 desmos is amazing
-- 💞️ why
-- 📫 slycedf on Discord, also [this](https://linktr.ee/slycedf)
+can i help you?
 
 <!---
 SlyceDF/SlyceDF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
